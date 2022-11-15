@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "my first Blog",
+      "body": " ajlfaj aj jlafsdjl jlajlfdajjfasjfjk",
+      "author": "kaushal",
+      "id": 1
+    },
+    {
+      "title": "my first Blog",
+      "body": " ajlfaj aj jlafsdjl jlajlfdajjfasjfjk",
+      "author": "Prajakta",
+      "id": 2
+    },
+    {
+      "title": "fdsa",
+      "body": "afsd",
+      "author": "df",
+      "id": 7
+    },
+    {
+      "title": "fasd",
+      "body": "fdas",
+      "author": "asd",
+      "id": 8
+    }
+  ]
+}
